@@ -1,4 +1,4 @@
-const VERSION = "1735197311133";const preCache = ["/images/taichi.png","/images/banner2.webp","/css/loader.css","/css/style.css","/js/script.js"];const cacheDomain = [
+const VERSION = "1735199895025";const preCache = ["/images/taichi.png","/images/banner2.webp","/css/loader.css","/css/style.css","/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
